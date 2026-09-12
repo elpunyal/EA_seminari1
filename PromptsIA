@@ -1,0 +1,12 @@
+1. Explícame cómo filtrar un array de usuarios para quedarme solo con los que tienen un id par usando filter.
+
+2. Ayúdame a transformar los usuarios de una API con map para conservar solo el id, el nombre y la ciudad de address.
+
+3. Cómo puedo añadir un objeto al principio de un array usando el operador spread sin modificar el array original?
+
+4. Dónde se coloca reduce dentro de una cadena de operaciones con filter y map, y para qué sirve en este ejercicio?
+
+5. Cómo puedo usar el operador spread para añadir un objeto al principio de un array sin modificar el array original?
+
+
+IA: Gemini 3.6 Flash
